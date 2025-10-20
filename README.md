@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h3 align="center">I'm a software engineering student.</h3>
+<hr>
 
-<!--
-**Alexxx2k/Alexxx2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="files/icons/laptop.gif" alt="drawing" width="20"/> Tech Stack:  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,css,html,postgres,docker,git)](https://skillicons.dev)
+<hr>
 
-Here are some ideas to get you started:
+## <img src="files/icons/iPhone.gif" alt="drawing" width="20"/> Contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="files/icons/telegram_logo.gif" alt="drawing" width="60"/>
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k)
+<hr>
+
+<img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg" alt="Snake animation" />
+
+
+
