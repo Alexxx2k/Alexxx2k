@@ -2,13 +2,13 @@
 <h3 align="center">I'm a software engineering student.</h3>
 <hr>
 
-## <img src="files/icons/laptop.gif" alt="drawing" width="20"/> Tech Stack:  
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,css,html,postgres,docker,git)](https://skillicons.dev)
+## <img src="files/icons/laptop.gif" alt="drawing" width="25"> Tech Stack:  
+![My Skills](https://skillicons.dev/icons?i=java,cpp,css,html,postgres,docker,git)
 <hr>
 
-## <img src="files/icons/iPhone.gif" alt="drawing" width="20"/> Contacts:
+## <img src="files/icons/iPhone.gif" alt="drawing" width="25"> Contacts:
 
-<img src="files/icons/telegram_logo.gif" alt="drawing" width="60"/>
+<a href="https://t.me/ya_alexxx"> <img src="files/icons/telegram_logo.gif" alt="drawing" width="60"/> </a>
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k)
