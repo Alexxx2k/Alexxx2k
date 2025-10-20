@@ -12,8 +12,8 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k)
-<img src="files/icons/dog_coding.gif" height="90">
-<img src="files/icons/skype_coding.gif" height="90">
+<img src="files/icons/dog_coding.gif" height="125">
+<img src="files/icons/skype_coding.gif" height="125">
 <hr>
 
 <img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg" alt="Snake animation" />
