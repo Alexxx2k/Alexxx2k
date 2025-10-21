@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="files/icons/Hi.gif" width="35">, I'm Alexander</h1>
-<h3 align="center">I'm a software engineering student.</h3>
+<h3 align="center">I'm a software engineering student at SPBPU</h3>
 <hr>
 
-## <img src="files/icons/laptop.gif" width="25"> Tech Stack:
+## <img src="files/icons/code.gif" width="25"> Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,6 +23,5 @@
 <hr>
 
 <img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg" alt="Snake animation" />
-
-
+<img src="files/icons/mario.gif">
 
