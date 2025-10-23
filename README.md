@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## <img src="files/icons/iPhone.gif" width="25" alt="My contacts"> My contacts:
+## <img src="files/icons/iPhone.gif" width="25" alt="My contacts"> My Contacts:
 
 <p align="center">
   <a href="https://t.me/ya_alexxx">
