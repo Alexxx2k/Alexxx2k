@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi <img src="files/icons/Hi.gif" width="35" alt="Hi">, I'm Alexander</h1>
 <h3 align="center">I'm a software engineering student at SPBPU</h3>
 <hr>
@@ -27,7 +28,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg#gh-dark-mode-only" alt="My GitHub Stats"></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"></a></td>
     </tr>
 </table>
 
