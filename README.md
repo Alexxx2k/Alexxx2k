@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## 📈 GitHub Activity Graph:
+## <img src="files/icons/rocket.gif" width="25"> GitHub Activity Graph:
 
 <table>
   <tr>
@@ -31,5 +31,5 @@
     </tr>
 </table>
 
-<img src="files/icons/mario.gif">
+<img src="files/icons/pixelcat.gif">
 
