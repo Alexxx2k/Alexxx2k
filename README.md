@@ -18,10 +18,18 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k&layout=compact&theme=city_lights)
-<hr>
+## 📈 GitHub Activity Graph:
 
-<img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg" alt="Snake animation" />
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    <td rowspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxx2k&theme=city_lights&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/snake.svg" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+
 <img src="files/icons/mario.gif">
 
