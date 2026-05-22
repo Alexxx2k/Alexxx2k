@@ -20,9 +20,9 @@
 
 ## <img src="files/icons/rocket.gif" width="25" alt="My GitHub Stats"> GitHub Activity Graph:
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
+    <td style="border: none; padding: 0;">
         <a href="https://github.com/Alexxx2k#gh-light-mode-only">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" 
             alt="My GitHub Stats">
