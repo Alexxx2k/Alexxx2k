@@ -20,21 +20,27 @@
 
 ## <img src="files/icons/rocket.gif" width="25" alt="My GitHub Stats"> GitHub Activity Graph:
 
-<table style="border-collapse: collapse; border: none;">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: none; padding: 0;">
+    <td>
         <a href="https://github.com/Alexxx2k#gh-light-mode-only">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" 
             alt="My GitHub Stats">
-        </a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
+        </a>
+        <a href="https://github.com/Alexxx2k#gh-dark-mode-only">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexxx2k&show_icons=true&theme=gotham#gh-dark-mode-only"
-            alt="My GitHub Stats"></a>
+            alt="My GitHub Stats">
+        </a>
     </td>
-    <td rowspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8#gh-light-mode-only" 
-            alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexxx2k&theme=gotham&langs_count=8#gh-dark-mode-only" 
-            alt="My GitHub Stats"></a>
+    <td rowspan="2" align="center">
+        <a href="https://github.com/Alexxx2k#gh-light-mode-only">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8#gh-light-mode-only" 
+            alt="My GitHub Stats">
+        </a>
+        <a href="https://github.com/Alexxx2k#gh-dark-mode-only">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexxx2k&theme=gotham&langs_count=8#gh-dark-mode-only" 
+            alt="My GitHub Stats">
+        </a>
     </td>
   </tr>
   <tr></tr>
