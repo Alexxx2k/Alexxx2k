@@ -24,7 +24,7 @@
 <!--
   <tr>
     <td align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" 
+        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" 
             alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights#gh-dark-mode-only" 
             alt="My GitHub Stats"></a>
