@@ -23,15 +23,15 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default#gh-light-mode-only" 
+        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default&cache_seconds=0#gh-light-mode-only" 
             alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights#gh-dark-mode-only" 
+        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights&cache_seconds=0#gh-dark-mode-only" 
             alt="My GitHub Stats"></a>
     </td>
     <td rowspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8#gh-light-mode-only" 
+        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8&cache_seconds=0#gh-light-mode-only" 
             alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=city_lights&langs_count=8#gh-dark-mode-only" 
+        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=city_lights&langs_count=8&cache_seconds=0#gh-dark-mode-only" 
             alt="My GitHub Stats"></a>
     </td>
   </tr>
