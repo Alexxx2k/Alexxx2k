@@ -18,29 +18,32 @@
   </a>
 </p>
 
-## <img src="files/icons/rocket.gif" width="25" alt="My GitHub Stats"> GitHub Activity Graph:
+## <img src="files/icons/rocket.gif" width="25" alt="My GitHub Stats"> GitHub Activity:
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default&cache_seconds=0#gh-light-mode-only" 
-            alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights&cache_seconds=0#gh-dark-mode-only" 
-            alt="My GitHub Stats"></a>
-    </td>
-    <td rowspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&langs_count=8&cache_seconds=0#gh-light-mode-only" 
-            alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only">
-        <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=city_lights&langs_count=8&cache_seconds=0#gh-dark-mode-only" 
-            alt="My GitHub Stats"></a>
-    </td>
-  </tr>
-  <tr></tr>
+<p align="center">
+  <a href="https://github.com/Alexxx2k#gh-light-mode-only">
+    <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=default&cache_seconds=0#gh-light-mode-only" height="165" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Alexxx2k#gh-dark-mode-only">
+    <img src="https://github-readme-stats-one-wheat-28.vercel.app/api?username=Alexxx2k&show_icons=true&theme=city_lights&cache_seconds=0#gh-dark-mode-only" height="165" alt="GitHub Stats">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Alexxx2k#gh-light-mode-only">
+    <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=default&layout=compact&cache_seconds=0#gh-light-mode-only" height="165" alt="Top Languages">
+  </a>
+  <a href="https://github.com/Alexxx2k#gh-dark-mode-only">
+    <img src="https://github-readme-stats-one-wheat-28.vercel.app/api/top-langs/?username=Alexxx2k&theme=city_lights&layout=compact&cache_seconds=0#gh-dark-mode-only" height="165" alt="Top Languages">
+  </a>
+</p>
 
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/Alexxx2k#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"></a><a href="https://github.com/Alexxx2k#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"></a></td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Alexxx2k#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="Contribution Snake" width="100%">
+  </a>
+  <a href="https://github.com/Alexxx2k#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Alexxx2k/Alexxx2k/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" width="100%">
+  </a>
+</p>
 
 <img src="files/icons/mario.gif">
 
